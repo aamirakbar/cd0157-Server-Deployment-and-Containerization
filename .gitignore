@@ -1,3 +1,4 @@
+.env_file
 .DS_Store
 .env*
 .flaskenv
